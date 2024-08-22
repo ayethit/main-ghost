@@ -1,0 +1,2 @@
+# main-ghost
+my file
